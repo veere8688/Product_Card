@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+
+.img-container{
+    margin:50px;
+}
+
+.content span{
+    margin:50px;
+    padding-left:10px;
+    font-size:large;
+    padding-bottom:5px;
+    color:solid gray;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom:10px;
+}
+.stars span{
+    margin:10px;
+    padding-left:150px;
+}
+.information span{
+    padding-left:100px;
+}
+.product-cost span{
+    font-weight:bold;
+    font-size: 25px;
+    padding-left:80px;
+}
+.product-cost small{
+    font-size: 15px;
+}
+
+.details p{
+    padding-left: 70px;
+}
+
+.details span{
+    padding-left: 100px;
+    font-weight: 100;
+    font-size: medium;
+}
